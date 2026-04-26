@@ -510,6 +510,14 @@ body::before {
   color: var(--green-light);
 }
 
+.cta-qq-group-name {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--green-deep);
+  margin-top: 6px;
+  letter-spacing: 0.04em;
+}
+
 .cta-note {
   font-size: 0.82rem;
   color: var(--green-deep);
